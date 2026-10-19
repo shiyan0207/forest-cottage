@@ -2,7 +2,9 @@
 
 黄昏松林中的一间乡村木屋。一个完全程序化的 Three.js 3D 场景，单文件、可离线运行。
 
-**Live Demo** · [__LIVE_URL__](__LIVE_URL__)
+**Live Demo** · [shiyan0207.github.io/forest-cottage](https://shiyan0207.github.io/forest-cottage/)
+
+**Source** · [github.com/shiyan0207/forest-cottage](https://github.com/shiyan0207/forest-cottage)
 
 ![暮林小屋](./preview.png)
 
